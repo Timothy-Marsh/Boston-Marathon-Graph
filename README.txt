@@ -1,0 +1,1 @@
+For an assignment in one of my Stats classes I had to find a data set and summarize it in a graphic. I found a data set containing information on the winners of the Boston Marathon from Kaggle at the following link; <https://www.kaggle.com/datasets/zhikchen/boston-marathon-winners-men-and-women>.
