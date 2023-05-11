@@ -12,7 +12,7 @@ output:
 For an assignment in one of my Stats classes I had to find a data set and summarize it in a graphic. I found a data set containing information on the winners of the Boston Marathon from Kaggle at the following link; <https://www.kaggle.com/datasets/zhikchen/boston-marathon-winners-men-and-women>.\
 As a graphic for the data I chose a scatter-plot of the times of the winners over the years that the marathon has been held. I further indicated which data points are from the female marathon and which are from the male marathon by changing the shape of the points, and the continent that the winners are from by the colour of the points. This visualization shows the trend of the winning times for the marathon and the differences in speed between the Sexes.
 
-```{r cars}
+```{r boston marathon graph}
 knitr::opts_chunk$set(echo = TRUE)
 # R Packages that are used
 library(readr)
